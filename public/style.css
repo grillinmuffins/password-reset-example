@@ -18,6 +18,20 @@ font-size: medium;
 .center-card
 {
 padding: 20px;
-border-radius: 20px;
+border-radius: 10px;
 background-color: #ddd;
+}
+
+label{
+display:block;
+}
+
+input{
+display:block;
+width: 100%;
+}
+
+button{
+display: block;
+width:100%;
 }
