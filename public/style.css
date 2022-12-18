@@ -1,6 +1,6 @@
 body
 {
-background-color:#000000;
+background-color:#ffffff;
 /* max-width:800; */
 height:100vh;
 display: flex;  /* Make the body element a flex container */
@@ -14,10 +14,3 @@ font-family: helvetica, sans-serif;
 color:#000000;
 font-size: medium; 
 }
-
-.my-block {
-background-color: #ddd;
-padding: 20px;
-border-radius: 20px;
-}
-
