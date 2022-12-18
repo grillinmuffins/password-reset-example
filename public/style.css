@@ -33,6 +33,7 @@ display:block;
 
 input{
 display:block;
+box-sizing: border-box;
 width: 100%;
 }
 
