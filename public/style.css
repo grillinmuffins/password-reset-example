@@ -7,11 +7,15 @@ align-items: center;  /* Center the content vertically */
 justify-content: center;  /* Center the content horizontally */
 }
 
-p,h2,h3,li,td,div
+p,h1,h2,h3,li,td,div
 { 
 font-family: helvetica, sans-serif;
 color:#000000;
 font-size: medium; 
+}
+
+h1{
+    font-size: larger;
 }
 
 .center-card
